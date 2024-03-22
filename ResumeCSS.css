@@ -1,0 +1,39 @@
+body{
+	font-size: 20px;
+	line-height: 20px;
+}
+
+h1 {
+	text-align: center;
+	font-family: cursive;
+}
+
+.p1 {
+	font: message-box;
+	font-size: 20px;
+	font-style: italic;
+	color: darkcyan;
+}
+
+footer {
+	margin-inline-end: 10px;
+}
+
+table {
+		text-align: center;
+		border-collapse: collapse;
+		background-color: lightgray;
+}
+
+h2{
+	text-decoration: underline;
+	font: fantasy;
+}
+
+a {
+	color: red;
+}
+
+li {
+	color: green;
+}
